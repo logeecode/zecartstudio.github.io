@@ -1,0 +1,253 @@
+#pamphletu2662
+{
+	position: fixed;
+}
+
+#u2663
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u2664
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u2680:hover,#u2664:active
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u2680,#menuu8701
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u8738
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u8741-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #000000;
+	line-height: 12px;
+	font-size: 10px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u8724
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u8726-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #000000;
+	line-height: 12px;
+	font-size: 10px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u8705
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u8706-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #000000;
+	line-height: 12px;
+	font-size: 10px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u8710
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u8712-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #000000;
+	line-height: 12px;
+	font-size: 10px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u8719
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u8720-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #000000;
+	line-height: 12px;
+	font-size: 10px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u8737,#u8723,#u8702,#u8709,#u8716,#u8730
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u8731
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u8732-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #000000;
+	line-height: 12px;
+	font-size: 10px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u8738.MuseMenuActive #u8741-4 p,#u8724.MuseMenuActive #u8726-4 p,#u8705.MuseMenuActive #u8706-4 p,#u8710.MuseMenuActive #u8712-4 p,#u8719.MuseMenuActive #u8720-4 p,#u8731.MuseMenuActive #u8732-4 p
+{
+	color: #FF0000;
+	visibility: inherit;
+	font-weight: normal;
+}
+
+#u2681
+{
+	position: relative;
+}
+
+#u2682
+{
+	position: absolute;
+}
+
+#u2683
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	border-radius: 6px;
+	background: #ED1C24 url("../../images/feed2.png") no-repeat center center;
+}
+
+#u2683.PamphletThumbSelected
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-radius: 6px;
+	background: #000000 url("../../images/feed22.png") no-repeat center center;
+}
+
+.MenuItem,.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u2707
+{
+	border-style: solid;
+	border-color: #FF0000;
+	background-color: #FFFFFF;
+	opacity: 0.75;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
+	filter: alpha(opacity=75);
+	border-width: 0px 0px 1px;
+}
+
+#u8640
+{
+	background-color: transparent;
+	position: fixed;
+}
+
+#u8640_clip
+{
+	overflow: hidden;
+}
+
+#u2796
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+}
+
+#u8745-6
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 11px;
+	font-size: 9px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+

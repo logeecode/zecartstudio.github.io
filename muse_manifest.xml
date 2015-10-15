@@ -1,0 +1,228 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="zecartstudio.com" resolutions="1x" timestamp="1444834437571">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-master.css" crc="4188008684" ref="index"/>
+    <file name="index.css" crc="149024130" ref="index"/>
+    <file name="iefonts_index.css" crc="4290381151" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="183364071" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="phone>index:tablet>index:index"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:tablet>index:index"/>
+    <file name="webpro.js" crc="3803554875" ref="phone>index:tablet>index:index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="phone>index:tablet>index:index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="phone>index:tablet>index:index"/>
+    <file name="form_check.php" crc="277267350" ref="phone>index:tablet>index:index"/>
+    <file name="form_throttle.php" crc="3908387251" ref="phone>index:tablet>index:index"/>
+    <file name="form_process.php" crc="24249335" ref="phone>index:tablet>index:index"/>
+    <file name="form-u9027.php" crc="350066371" ref="phone>index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:tablet>index:index"/>
+    <file name="museredirect.js" crc="40941066" ref="tablet>index:index"/>
+    <file name="form-u8560.php" crc="3811000684" ref="tablet>index"/>
+    <file name="form-u1789.php" crc="3861052302" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="feed2.png" crc="346030358" ref="phone>index"/>
+    <file name="feed22.png" crc="346030358" ref="phone>index"/>
+    <file name="webdsgner equip-u80-fr.png" crc="208263618" ref="phone>index"/>
+    <file name="zecart hitam.png" crc="200298667" seo="true" ref="phone>index:tablet>index"/>
+    <file name="web dev.png" crc="224597328" ref="phone>index:tablet>index:index"/>
+    <file name="graphic design.png" crc="4182781584" ref="phone>index:tablet>index:index"/>
+    <file name="photography.png" crc="489405652" ref="phone>index:tablet>index:index"/>
+    <file name="photography2.png" crc="3908403550" ref="phone>index:tablet>index:index"/>
+    <file name="f.png" crc="360990781" ref="phone>index:tablet>index:index"/>
+    <file name="t.png" crc="37210137" ref="phone>index:tablet>index:index"/>
+    <file name="g.png" crc="274056100" ref="phone>index:tablet>index:index"/>
+    <file name="p.png" crc="286497845" ref="phone>index:tablet>index:index"/>
+    <file name="team 1.png" crc="4020968513" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="team 2.png" crc="3762823579" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="team 3.png" crc="334476744" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="team 4.png" crc="430949368" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="dsgnr working.jpg" crc="3917358749" ref="phone>index:tablet>index"/>
+    <file name="web dev76x76.png" crc="3826731474" seo="true" ref="phone>index"/>
+    <file name="photography-u8901-fr.png" crc="3966732734" ref="phone>index:tablet>index:index"/>
+    <file name="socmed.jpg" crc="385530407" ref="phone>index:tablet>index"/>
+    <file name="f22.png" crc="3866160501" ref="phone>index"/>
+    <file name="f2.png" crc="3866160501" ref="phone>index:tablet>index:index"/>
+    <file name="t22.png" crc="4248210681" ref="phone>index"/>
+    <file name="t2.png" crc="4248210681" ref="phone>index:tablet>index:index"/>
+    <file name="g22.png" crc="4155721327" ref="phone>index:tablet>index"/>
+    <file name="g2.png" crc="4155721327" ref="phone>index:tablet>index:index"/>
+    <file name="b_w2.png" crc="160896072" ref="phone>index:tablet>index"/>
+    <file name="b_w.png" crc="160896072" ref="phone>index:tablet>index:index"/>
+    <file name="p2.png" crc="3974701439" ref="phone>index:index"/>
+    <file name="p3.png" crc="3974701439" ref="phone>index:tablet>index:index"/>
+    <file name="owl158x158.jpg" crc="4036387000" seo="true" ref="phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:index"/>
+    <file name="butterfly158x158.jpg" crc="4025847362" seo="true" ref="phone>index"/>
+    <file name="wolf158x158.jpg" crc="3769081232" seo="true" ref="phone>index"/>
+    <file name="triangle wolf158x158.jpg" crc="320218646" seo="true" ref="phone>index"/>
+    <file name="triangel deer158x158.jpg" crc="335403723" seo="true" ref="phone>index"/>
+    <file name="lion158x158.jpg" crc="501324672" seo="true" ref="phone>index"/>
+    <file name="07158x158.jpg" crc="458162419" seo="true" ref="phone>index"/>
+    <file name="microphone158x158.jpg" crc="3839521336" seo="true" ref="phone>index"/>
+    <file name="photography158x158.jpg" crc="3929898066" seo="true" ref="phone>index"/>
+    <file name="arrow_l.png" crc="316907625" ref="phone>index:tablet>index:index"/>
+    <file name="arrow_r.png" crc="433878970" ref="phone>index:tablet>index:index"/>
+    <file name="close.png" crc="256697279" ref="phone>index:tablet>index:index"/>
+    <file name="2view.png" crc="3850148142" ref="phone>index:tablet>index:index"/>
+    <file name="2view-u10022-r-fr.png" crc="41717008" ref="phone>index:tablet>index:index"/>
+    <file name="owl-crop-u10022.jpg" crc="4163013759" ref="phone>index"/>
+    <file name="butterfly-crop-u10034.jpg" crc="4258761012" ref="phone>index"/>
+    <file name="wolf-crop-u10046.jpg" crc="181081769" ref="phone>index"/>
+    <file name="triangle wolf-crop-u10058.jpg" crc="135581665" ref="phone>index"/>
+    <file name="triangel deer-crop-u10070.jpg" crc="4027767072" ref="phone>index"/>
+    <file name="lion-crop-u10082.jpg" crc="4077503542" ref="phone>index"/>
+    <file name="07-crop-u10094.jpg" crc="355551892" ref="phone>index"/>
+    <file name="microphone-crop-u10106.jpg" crc="360110027" ref="phone>index"/>
+    <file name="photography-crop-u10118.jpg" crc="414137537" ref="phone>index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:tablet>index:index"/>
+    <file name="arrow_l-ieu3192-3-fr.png" crc="316907625" ref="phone>index:tablet>index:index"/>
+    <file name="arrow_r-ieu3171-3-fr.png" crc="433878970" ref="phone>index:tablet>index:index"/>
+    <file name="owl-crop-u10130.jpg" crc="4163013759" ref="phone>index"/>
+    <file name="butterfly-crop-u10142.jpg" crc="4258761012" ref="phone>index"/>
+    <file name="wolf-crop-u10154.jpg" crc="181081769" ref="phone>index"/>
+    <file name="triangle wolf-crop-u10166.jpg" crc="135581665" ref="phone>index"/>
+    <file name="triangel deer-crop-u10178.jpg" crc="4027767072" ref="phone>index"/>
+    <file name="lion-crop-u10190.jpg" crc="4077503542" ref="phone>index"/>
+    <file name="07-crop-u10202.jpg" crc="355551892" ref="phone>index"/>
+    <file name="microphone-crop-u10214.jpg" crc="360110027" ref="phone>index"/>
+    <file name="photography-crop-u10226.jpg" crc="414137537" ref="phone>index"/>
+    <file name="owl-crop-u10238.jpg" crc="4163013759" ref="phone>index"/>
+    <file name="butterfly-crop-u10250.jpg" crc="4258761012" ref="phone>index"/>
+    <file name="wolf-crop-u10262.jpg" crc="181081769" ref="phone>index"/>
+    <file name="triangle wolf-crop-u10274.jpg" crc="135581665" ref="phone>index"/>
+    <file name="triangel deer-crop-u10286.jpg" crc="4027767072" ref="phone>index"/>
+    <file name="lion-crop-u10298.jpg" crc="4077503542" ref="phone>index"/>
+    <file name="07-crop-u10310.jpg" crc="355551892" ref="phone>index"/>
+    <file name="microphone-crop-u10322.jpg" crc="360110027" ref="phone>index"/>
+    <file name="photography-crop-u10334.jpg" crc="414137537" ref="phone>index"/>
+    <file name="table dsgnr.jpg" crc="264582702" ref="phone>index:tablet>index"/>
+    <file name="client 1.png" crc="4256468303" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="client 2.png" crc="254509237" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="client 3.png" crc="371924733" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="u9035-17.png" crc="99889934" ref="phone>index"/>
+    <file name="u9035-17-r.png" crc="4150184708" ref="phone>index"/>
+    <file name="u9035-17-m.png" crc="4150184708" ref="phone>index"/>
+    <file name="u9035-17-fs.png" crc="71502149" ref="phone>index"/>
+    <file name="facebook30 (2)-u9076-fr.png" crc="304214260" ref="phone>index"/>
+    <file name="iphone26-u9078-fr.png" crc="162293119" ref="phone>index"/>
+    <file name="email5 (1)-u9077-fr.png" crc="9039767" ref="phone>index"/>
+    <file name="webdsgner equip-u80-fr-u1990-fr.png" crc="128208597" ref="tablet>index"/>
+    <file name="f23.png" crc="3866160501" ref="tablet>index:index"/>
+    <file name="t23.png" crc="4248210681" ref="tablet>index:index"/>
+    <file name="p22.png" crc="3974701439" ref="tablet>index"/>
+    <file name="owl388x388.jpg" crc="534549185" seo="true" ref="tablet>index"/>
+    <file name="butterfly388x388.jpg" crc="141821256" seo="true" ref="tablet>index"/>
+    <file name="wolf388x388.jpg" crc="422700525" seo="true" ref="tablet>index"/>
+    <file name="triangle wolf388x388.jpg" crc="3823886199" seo="true" ref="tablet>index"/>
+    <file name="triangel deer388x388.jpg" crc="4081218452" seo="true" ref="tablet>index"/>
+    <file name="lion388x388.jpg" crc="220650046" seo="true" ref="tablet>index"/>
+    <file name="07388x388.jpg" crc="25159451" seo="true" ref="tablet>index"/>
+    <file name="microphone388x388.jpg" crc="477667763" seo="true" ref="tablet>index"/>
+    <file name="photography388x388.jpg" crc="3932569618" seo="true" ref="tablet>index"/>
+    <file name="owl-crop-u9686.jpg" crc="427478091" ref="tablet>index"/>
+    <file name="butterfly-crop-u9698.jpg" crc="431428788" ref="tablet>index"/>
+    <file name="wolf-crop-u9710.jpg" crc="3855225788" ref="tablet>index"/>
+    <file name="triangle wolf-crop-u9722.jpg" crc="109886955" ref="tablet>index"/>
+    <file name="triangel deer-crop-u9734.jpg" crc="4221971708" ref="tablet>index"/>
+    <file name="lion-crop-u9746.jpg" crc="471771627" ref="tablet>index"/>
+    <file name="07-crop-u9758.jpg" crc="3792291248" ref="tablet>index"/>
+    <file name="microphone-crop-u9770.jpg" crc="420089949" ref="tablet>index"/>
+    <file name="photography-crop-u9782.jpg" crc="299086363" ref="tablet>index"/>
+    <file name="owl-crop-u9794.jpg" crc="427478091" ref="tablet>index"/>
+    <file name="butterfly-crop-u9806.jpg" crc="431428788" ref="tablet>index"/>
+    <file name="wolf-crop-u9818.jpg" crc="3855225788" ref="tablet>index"/>
+    <file name="triangle wolf-crop-u9830.jpg" crc="109886955" ref="tablet>index"/>
+    <file name="triangel deer-crop-u9842.jpg" crc="4221971708" ref="tablet>index"/>
+    <file name="lion-crop-u9854.jpg" crc="471771627" ref="tablet>index"/>
+    <file name="07-crop-u9866.jpg" crc="3792291248" ref="tablet>index"/>
+    <file name="microphone-crop-u9878.jpg" crc="420089949" ref="tablet>index"/>
+    <file name="photography-crop-u9890.jpg" crc="299086363" ref="tablet>index"/>
+    <file name="owl-crop-u9914.jpg" crc="427478091" ref="tablet>index"/>
+    <file name="butterfly-crop-u9926.jpg" crc="431428788" ref="tablet>index"/>
+    <file name="wolf-crop-u9938.jpg" crc="3855225788" ref="tablet>index"/>
+    <file name="triangle wolf-crop-u9950.jpg" crc="109886955" ref="tablet>index"/>
+    <file name="triangel deer-crop-u9962.jpg" crc="4221971708" ref="tablet>index"/>
+    <file name="lion-crop-u9974.jpg" crc="471771627" ref="tablet>index"/>
+    <file name="07-crop-u9986.jpg" crc="3792291248" ref="tablet>index"/>
+    <file name="microphone-crop-u9998.jpg" crc="420089949" ref="tablet>index"/>
+    <file name="photography-crop-u10010.jpg" crc="299086363" ref="tablet>index"/>
+    <file name="u8570-17.png" crc="388795882" ref="tablet>index"/>
+    <file name="u8570-17-r.png" crc="378481406" ref="tablet>index"/>
+    <file name="u8570-17-m.png" crc="378481406" ref="tablet>index"/>
+    <file name="u8570-17-fs.png" crc="4204821587" ref="tablet>index"/>
+    <file name="facebook30 (2)-u8587-fr.png" crc="459326270" ref="tablet>index:index"/>
+    <file name="email5 (1).png" crc="219454686" ref="tablet>index:index"/>
+    <file name="iphone26-u8589-fr.png" crc="4223088798" ref="tablet>index:index"/>
+    <file name="webdsgner equip-u80-fr2.png" crc="208263618" ref="index"/>
+    <file name="zecart hitam2.png" crc="200298667" seo="true" ref="index"/>
+    <file name="dsgnr working2.jpg" crc="3917358749" ref="index"/>
+    <file name="socmed2.jpg" crc="385530407" ref="index"/>
+    <file name="g23.png" crc="4155721327" ref="index"/>
+    <file name="b_w3.png" crc="160896072" ref="index"/>
+    <file name="owl.jpg" crc="200977817" seo="true" ref="index"/>
+    <file name="butterfly.jpg" crc="3807598537" seo="true" ref="index"/>
+    <file name="wolf.jpg" crc="283752261" seo="true" ref="index"/>
+    <file name="triangle wolf.jpg" crc="261339867" seo="true" ref="index"/>
+    <file name="triangel deer.jpg" crc="3903381639" seo="true" ref="index"/>
+    <file name="lion.jpg" crc="4074370034" seo="true" ref="index"/>
+    <file name="07.jpg" crc="3767878689" seo="true" ref="index"/>
+    <file name="microphone.jpg" crc="368168658" seo="true" ref="index"/>
+    <file name="photography.jpg" crc="3766533687" seo="true" ref="index"/>
+    <file name="owl-crop-u9298.jpg" crc="3863372588" ref="index"/>
+    <file name="butterfly-crop-u9312.jpg" crc="4158970110" ref="index"/>
+    <file name="wolf-crop-u9326.jpg" crc="4145773054" ref="index"/>
+    <file name="triangle wolf-crop-u9340.jpg" crc="217295917" ref="index"/>
+    <file name="triangel deer-crop-u9354.jpg" crc="186288269" ref="index"/>
+    <file name="lion-crop-u9368.jpg" crc="4018382767" ref="index"/>
+    <file name="07-crop-u9382.jpg" crc="292929799" ref="index"/>
+    <file name="microphone-crop-u9396.jpg" crc="228300734" ref="index"/>
+    <file name="photography-crop-u9410.jpg" crc="3797422472" ref="index"/>
+    <file name="owl-crop-u9446.jpg" crc="3863372588" ref="index"/>
+    <file name="butterfly-crop-u9458.jpg" crc="4158970110" ref="index"/>
+    <file name="wolf-crop-u9470.jpg" crc="4145773054" ref="index"/>
+    <file name="triangle wolf-crop-u9482.jpg" crc="217295917" ref="index"/>
+    <file name="triangel deer-crop-u9494.jpg" crc="186288269" ref="index"/>
+    <file name="lion-crop-u9506.jpg" crc="4018382767" ref="index"/>
+    <file name="07-crop-u9518.jpg" crc="292929799" ref="index"/>
+    <file name="microphone-crop-u9530.jpg" crc="228300734" ref="index"/>
+    <file name="photography-crop-u9542.jpg" crc="3797422472" ref="index"/>
+    <file name="owl-crop-u9566.jpg" crc="3863372588" ref="index"/>
+    <file name="butterfly-crop-u9578.jpg" crc="4158970110" ref="index"/>
+    <file name="wolf-crop-u9590.jpg" crc="4145773054" ref="index"/>
+    <file name="triangle wolf-crop-u9602.jpg" crc="217295917" ref="index"/>
+    <file name="triangel deer-crop-u9614.jpg" crc="186288269" ref="index"/>
+    <file name="lion-crop-u9626.jpg" crc="4018382767" ref="index"/>
+    <file name="07-crop-u9638.jpg" crc="292929799" ref="index"/>
+    <file name="microphone-crop-u9650.jpg" crc="228300734" ref="index"/>
+    <file name="photography-crop-u9674.jpg" crc="3797422472" ref="index"/>
+    <file name="table dsgnr2.jpg" crc="264582702" ref="index"/>
+    <file name="u1811-17.png" crc="388795882" ref="index"/>
+    <file name="u1811-17-r.png" crc="378481406" ref="index"/>
+    <file name="u1811-17-m.png" crc="378481406" ref="index"/>
+    <file name="u1811-17-fs.png" crc="4204821587" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4151181812" ref="tablet>index"/>
+      <file name="index.css" crc="3992019837" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="4265359894" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="429260856" seo="true" mt="1444834376819" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="116420932" ref="phone>index"/>
+      <file name="index.css" crc="3992348999" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="116767761" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="460476275" seo="true" mt="1444834342902" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="457504487" seo="true" mt="1444834319568" redirect="true"/>
+</manifest>

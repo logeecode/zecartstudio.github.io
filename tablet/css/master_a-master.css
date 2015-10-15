@@ -1,0 +1,194 @@
+#u7930
+{
+	border-style: solid;
+	border-color: #FF0000;
+	background-color: #FFFFFF;
+	opacity: 0.75;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
+	filter: alpha(opacity=75);
+	border-width: 0px 0px 1px;
+}
+
+#u7975
+{
+	background-color: transparent;
+	position: fixed;
+}
+
+#menuu7932
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+}
+
+#u7957
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u7960-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #000000;
+	line-height: 14px;
+	font-size: 12px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u7948
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u7951-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #000000;
+	line-height: 14px;
+	font-size: 12px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u7943
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u7944-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #000000;
+	line-height: 14px;
+	font-size: 12px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u7964
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u7966-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #000000;
+	line-height: 14px;
+	font-size: 12px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u7971
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u7973-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #000000;
+	line-height: 14px;
+	font-size: 12px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u7954,#u7947,#u7940,#u7961,#u7968,#u7933
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u7936
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u7938-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #000000;
+	line-height: 14px;
+	font-size: 12px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u7957.MuseMenuActive #u7960-4 p,#u7948.MuseMenuActive #u7951-4 p,#u7943.MuseMenuActive #u7944-4 p,#u7964.MuseMenuActive #u7966-4 p,#u7971.MuseMenuActive #u7973-4 p,#u7936.MuseMenuActive #u7938-4 p
+{
+	color: #FF0000;
+	visibility: inherit;
+	font-weight: normal;
+}
+
+.MenuItem /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u1982
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+}
+
+#u1983-6
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 14px;
+	font-size: 12px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
